@@ -9,4 +9,4 @@ There are a number of interesting aspects happening here including:
 
 ## Diagram
 
-![Screenshot](https://raw.githubusercontent.com/shadowbq/openc2_proxy_workspace/master/OpenC2_OpenDXL_Workflow.png)
+![Screenshot](https://raw.githubusercontent.com/shadowbq/openc2_proxy_workspace/master/docs/images/OpenC2_OpenDXL_Workflow.png)
