@@ -1,4 +1,4 @@
-#OpenC2 Proxy Workspace
+# OpenC2 Proxy Workspace
 
 There are a number of interesting aspects happening here including:
 
